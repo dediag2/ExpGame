@@ -5,14 +5,14 @@
         {
             "name": "training",
             "mapId": "training",
-            "durationSec": 20.0,
+            "durationSec": 40.0,
             "tutorial": true,
             "seed": 1234
         },
         {
             "name": "main",
             "mapId": "main",
-            "durationSec": 60.0,
+            "durationSec": 20.0,
             "tutorial": false,
             "seed": 234635
         },
