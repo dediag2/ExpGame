@@ -12,7 +12,7 @@
         {
             "name": "main",
             "mapId": "main",
-            "durationSec": 20.0,
+            "durationSec": 60.0,
             "tutorial": false,
             "seed": 234635
         },
