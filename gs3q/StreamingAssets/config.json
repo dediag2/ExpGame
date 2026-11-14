@@ -5,7 +5,7 @@
         {
             "name": "training",
             "mapId": "training",
-            "durationSec": 40.0,
+            "durationSec": 20.0,
             "tutorial": true,
             "seed": 1234
         },
