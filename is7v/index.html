@@ -32,9 +32,9 @@
       var buildUrl = "Build";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/WebGL_pilot_2026-11-14_2123.data.unityweb",
-        frameworkUrl: buildUrl + "/WebGL_pilot_2026-11-14_2123.framework.js.unityweb",
-        codeUrl: buildUrl + "/WebGL_pilot_2026-11-14_2123.wasm.unityweb",
+        dataUrl: buildUrl + "/WebGL_pilot_2026-11-15_1914.data.unityweb",
+        frameworkUrl: buildUrl + "/WebGL_pilot_2026-11-15_1914.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebGL_pilot_2026-11-15_1914.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "ExpGame",
@@ -43,7 +43,7 @@
       };
 
       var script = document.createElement("script");
-      script.src = buildUrl + "/WebGL_pilot_2026-11-14_2123.loader.js";
+      script.src = buildUrl + "/WebGL_pilot_2026-11-15_1914.loader.js";
       script.onload = function () {
         createUnityInstance(canvas, config, function (progress) {
           document.querySelector("#loading-bar").style.width = 100 * progress + "%";
