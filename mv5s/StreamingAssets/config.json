@@ -11,5 +11,5 @@
     "uploadWaitSec": 30,
     "minAge": 18,
     "anchor_low": 17,
-    "anchor_high": 34
+    "anchor_high": 65
 }
