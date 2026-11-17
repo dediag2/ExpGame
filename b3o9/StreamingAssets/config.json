@@ -1,0 +1,15 @@
+{
+    "mode": "experiment",
+    "idList": "participants_main.json",
+    "rounds": [
+        { "name": "training", "mapId": "training", "durationSec": 40, "tutorial": true, "seed": 1234 },
+        { "name": "main", "mapId": "main", "durationSec": 60, "tutorial": false, "seed": 234635 }
+    ],
+    "experimentID": "EUM4mgD35b9p",
+    "apiUrl": "https://pipe.jspsych.org/api/data/",
+    "inactivityGapSec": 15,
+    "uploadWaitSec": 30,
+    "minAge": 18,
+    "anchor_low": 17,
+    "anchor_high": 65
+}
